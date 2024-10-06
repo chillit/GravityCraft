@@ -76,3 +76,4 @@ VR game for NASA challenge
 
 ***Цель игры:***
 Игроки стремятся стать мастерами своего мира, развивая свои навыки, создавая альянсы и преодолевая испытания, чтобы оставить свой след в "Параллельных мирах".
+![alt text](https://github.com/chillit/GravityCraft/blob/main/images/c4b40b5d-92d7-41ea-9a42-336f9bcacc30.jpg)
